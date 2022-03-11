@@ -1,0 +1,91 @@
+Anal Carcinoma
+Bladder Cancer
+Upper Tract Tumor
+Urothelial Carcinoma of the Prostate
+Bone Cancer
+Chondrosarcoma
+Chordoma
+Ewing's Sarcoma Family of Tumor
+Giant Cell Tumor of the Bone
+Osteosarcoma
+Breast Cancer
+Phyllodes Tumor
+Paget's Disease
+Inflammatory Breast Cancer
+Central Nervous System Cancer
+Meningiomas
+Adult Low-Grade Infiltrative Supratentorial Astrocytoma
+Oligodendroglioma
+Glioblastoma
+Anaplastic Gliomas
+Adult Intracranial Ependymoma
+Adult Medulloblastoma and Supratentorial PNET
+Primary CNS Lymphoma
+Primary Spinal Cord Tumors
+Cervical Cancer
+Colorectal Cancer
+Colon Cancer
+Rectal Cancer
+Esophageal and Esophagogastric Junction Cancers
+Gastric Cancer
+Genital tract Cancer
+Head and Neck Cancer
+Salivary Gland Tumor
+Oropharynx
+Hypopharynx
+Nasopharynx
+Glottic Larynx
+Supraglottic Larynx
+Ethmoid Sinus Tumor
+Maxillary Sinus Tumor
+Hepatobiliary cancer
+Biliary Tract Cancers
+Gallbladder Cancer
+Intrahepatic Cholangiocarcinoma
+Extrahepatic Cholangiocarcinoma
+Kidney Cancer
+Malignant Pleural Mesothelioma
+MPM
+Melanoma
+Cutaneous Melanoma
+Neuroendocrine Tumor
+Adrenal Gland Tumors
+Pheochromocytoma
+Paraganglioma
+Endocrine Neoplasia
+Basal Cell Skin Cancer
+Dermatofibrosarcoma Protuberans
+Merkel Cell Carcinoma
+Squamous Cell Skin Cancer
+Non-Small Cell Lung Cancer
+NSCLC
+Non Small Cell Lung Cancer
+Ovarian Cancer
+Fallopian Tube Cancer
+Primary Peritoneal Cancer
+Pancreatic Adenocarcinoma
+Pancreatic Cancer
+Parathyroid Cancer
+Penile Cancer
+Prostate Cancer
+Small Cell Lung Cancer
+Small intestine
+Gastrointestinal Stromal Tumors 
+GIST
+Soft Tissue Sarcoma
+Angiosarcoma
+Testicular Cancer
+Thymomas and Thymic Carcinomas
+Thyroid Carcinoma
+Papillary Carcinoma
+Follicular Carcinoma
+Hürthle Cell Neoplasm
+Medullary Carcinoma
+Anaplastic Carcinoma
+Upper aerodigestive tract
+Uterine Neoplasm
+Uterine Sarcoma
+Endometrial Cancer
+Vagina Cancer
+Vulvar Cancer 
+Squamous cell carcinoma
